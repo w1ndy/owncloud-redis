@@ -1,3 +1,3 @@
 FROM bitnami/owncloud
-ADD sociallogin /opt/bitnami/owncloud/apps
+RUN apt-get update && apt-get install -y php-redis
 

@@ -1,2 +1,2 @@
-# owncloud-sociallogin
-ownCloud docker image packed with the social-login app
+# owncloud-redis
+ownCloud docker image extended with the redis PHP module
