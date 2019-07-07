@@ -1,0 +1,4 @@
+[submodule "sociallogin"]
+	path = sociallogin
+	url = https://github.com/w1ndy/sociallogin.git
+	branch = hack
